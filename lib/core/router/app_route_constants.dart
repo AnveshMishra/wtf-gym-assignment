@@ -1,0 +1,1 @@
+const filterScreenRoute = '/filter-screen';
